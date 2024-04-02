@@ -1,0 +1,1 @@
+Time in percentages for Rainmeter
