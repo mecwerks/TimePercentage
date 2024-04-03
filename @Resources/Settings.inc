@@ -6,7 +6,9 @@ WorkHideOnWeekends=1
 WorkTextWhenHidden=work: off
 ; Text Settings
 TextDecimalPlaces=1
-TextFont=AvantGarde Bk BT
+; Try: AvantGarde BK Bt, Cascadia Mono, Courier New, Ink Free
+; May have to adjust BarOffset between 1 - 1.75 to make bars align correctly
+TextFont=AvantGarde BK Bt
 TextWeight=100
 TextColor=222,222,222,255
 TextSize=30
@@ -17,3 +19,4 @@ BarWidth=328
 BarBGColor=120,120,120,220
 BarFillColor=255,255,255,220
 BarYGap=46
+BarOffset=1.5
